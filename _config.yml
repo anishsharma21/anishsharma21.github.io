@@ -16,7 +16,7 @@ timezone: Australia/Sydney
 
 title: My CS Chronicles # the main title
 
-tagline: From bits to code # the tagline below the title
+tagline: From bits to apps # the tagline below the title
 
 description: >- # used by seo meta and the atom feed
   A blog about computer science, programming, and technology. Follow my journey from bits to code.
